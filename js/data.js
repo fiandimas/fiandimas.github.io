@@ -6,11 +6,6 @@ const main = {
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
-      name: 'Home',
-      iconName: 'logo-firefox',
-      link: 'https://sivanesh-s.github.io'
-    },
-    {
       name: 'Github',
       iconName: 'logo-github',
       link: 'https://github.com/fiandimas'
@@ -23,11 +18,13 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'alfndimas@gmail.com'}?Subject=Hello!`
+      link: `mailto:alfndimas@gmail.com?Subject=Hello!`
     }
   ],
   links: [
-    { name: 'Projects', link: '#projects' },
-    { name: 'Blogs', link: '#blogs' }
+    { name: 'gcrypt', link: 'https://github.com/fiandimas/gcrypt' },
+    { name: 'httpmaker', link: 'https://github.com/fiandimas/httpmaker' },
+    { name: 'kiryuu downloader', link: 'https://github.com/fiandimas/kiryuu-downloader' },
+    { name: 'manga listener', link: 'https://github.com/fiandimas/manga-listener' }
   ]
 };
