@@ -1,7 +1,7 @@
 const main = {
   name: 'Alfian Dimas Sugara',
   mail: 'alfndimas@gmail.com',
-  img: 'https://alchetron.com/cdn/asian-cat-66e2a381-ac52-494e-a700-a5e76bdff1d-resize-750.jpeg',
+  // img: 'https://alchetron.com/cdn/asian-cat-66e2a381-ac52-494e-a700-a5e76bdff1d-resize-750.jpeg',
   role: ['Backend Engineer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
